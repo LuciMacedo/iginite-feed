@@ -6,7 +6,7 @@ export function Header () {
 
     return (
         <header className={styles.header}>
-            <RocketLaunch/>
+            <RocketLaunch size={35}/>
         </header>
       );
 }
